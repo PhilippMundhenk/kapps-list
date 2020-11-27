@@ -1,6 +1,7 @@
 {
 	"apps": [{
 		"name": "Alarm",
-		"url": "https://codeload.github.com/PhilippMundhenk/kapps-alarm/zip/main"
+		"package": "https://codeload.github.com/PhilippMundhenk/kapps-alarm/zip/main",
+		"website": "https://github.com/PhilippMundhenk/kapps-alarm"
 	}]
 }
