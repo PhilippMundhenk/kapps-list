@@ -7,7 +7,7 @@
 	},
 	{
 		"name": "Dashboard",
-		"package": "https://codeload.github.com/PhilippMundhenk/kapps-dashboard/zip/main",
+		"package": "https://github.com/PhilippMundhenk/kapps-dashboard/archive/refs/heads/master.zip",
 		"website": "https://github.com/PhilippMundhenk/kapps-dashboard"
 	}]
 }
